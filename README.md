@@ -1,35 +1,34 @@
-# Who's Julien Sacko and What's he Building? 📊
+# 👋 Who's Julien Sacko and What Is He Building?
 
-Hello, I'm Julien. Machine Learning Engineer with expertise in data analysis, creating and deploying models at scale. 
+Hi, I'm **Julien Sacko**, a **Machine Learning Engineer** passionate about building robust, scalable, and production-ready ML systems. I specialize in **data analysis**, **model development**, and **MLOps practices** to take projects from raw data to real-world deployment.
 
-- Querying data using SQL.
-- Build Model using Scikit-learn and Tensorflow
+🔍 I love exploring how **AI can empower users**, drive **business value**, and scale seamlessly through automation and cloud-native tools.
+
+---
+
+### 🚀 What I Do
+
+- 📊 **Data Analysis & Feature Engineering** using `pandas`, `numpy`, and `seaborn`
+- 🤖 **Model Training** with `scikit-learn`, `TensorFlow` and `PyTorch`
+- ⚙️ **MLOps & Production** with `MLflow`,  `Airflow`, `DVC`, `FastAPI`, and `BentoML`
+- 🐳 **Containerization & Deployment** using `Docker` and `AWS`
+- 🔎 **Experiment Tracking** with `MLflow` and `Weights & Biases`
+- 📈 **Monitoring & Observability** via `Prometheus` and `Grafana`
+
+---
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/jsacko/portfolio/blob/main/README.md).
+Explore my latest [project](https://github.com/jsacko/LoL-predict), including:
 
-### 🛠️ Tools
+- 🧠 End-to-End MLOps pipelines
+- 📦 API-first model deployment with `FastAPI` and `BentoML`
+- 🛠️ Scalable workflows using `Airflow`, `Docker`, and cloud services
 
-- Language: SQL, Python
-- MLOps: Mlflow, Apache Aiflow, DVC
-- Visualization: Seaborn, Matplot
+---
 
-### 👋🏻 Connect with Me
+### 🤝 Let’s Connect
 
-- [Linkedin](https://www.linkedin.com/in/julien-sacko/)
+📬 Feel free to connect with me on [**LinkedIn**](https://www.linkedin.com/in/julien-sacko/).
 
-<!--
-**jsacko/jsacko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let’s build something impactful together!

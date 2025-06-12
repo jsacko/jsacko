@@ -1,6 +1,6 @@
 # 👋 Who's Julien Sacko and What Is He Building?
 
-Hi, I'm **Julien Sacko**, a **Machine Learning Engineer** passionate about building robust, scalable, and production-ready ML systems. I specialize in **data analysis**, **model development**, and **MLOps practices** to take projects from raw data to real-world deployment.
+Hi, I'm **Julien Sacko**, a **Machine Learning Engineer** passionate about building robust, scalable, and production-ready ML systems to solve real-world challenges. I specialize in **data analysis**, **model development**, and **MLOps practices** to take projects from raw data to real-world deployment.
 
 🔍 I love exploring how **AI can empower users**, drive **business value**, and scale seamlessly through automation and cloud-native tools.
 

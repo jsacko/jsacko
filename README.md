@@ -6,11 +6,12 @@ Hi, I'm Julien Sacko, a Machine Learning Engineer with expertise in cybersecurit
 
 ### 🚀 What I Do
 
+- ☁️ **Cloud Deployment** using `Azure ML` and `AWS`
 - 💻 **Software Development** in `Python`, `C`, `Java`, `TypeScript`, and `React`
-- 📊 **Data Analysis & Feature Engineering** using `Pandas`, `Numpy`, and `Seaborn`
+- 📊 **Data Analysis & Feature Engineering** using `Pandas`, `Numpy`, `SQL` and `Seaborn`
 - 🤖 **Model Training** with `TensorFlow`, `PyTorch` and `Scikit-learn`,
 - ⚙️ **MLOps & Production** with `Apache Airflow`, `Kubernetes`, `Docker`, `MLflow`, `W & B`, `FastAPI`, and `DVC`
-- ☁️ **Cloud Deployment** using `Azure ML` and `AWS`
+
 
 ---
 

@@ -1,6 +1,6 @@
 # 👋 Introducing Myself
 
-Hi, I'm Julien Sacko, a Machine Learning Engineer with expertise in cybersecurity, passionate about building robust, scalable, and production-ready ML systems for end users. I specialize in Deep Learning, data analysis, and MLOps practices to take projects from raw data to real-world deployment.
+Hi, I'm Julien Sacko, a  Security Machine Learning Engineer with expertise in cybersecurity, passionate about building robust, scalable, and production-ready ML systems for end users. I specialize in Deep Learning, data analysis, and MLOps practices to take projects from raw data to real-world deployment.
 
 ---
 

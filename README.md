@@ -24,11 +24,6 @@ Welcome to my portfolio, where I showcase my work in **AI, cybersecurity, and au
 
 ### 🤝 Let’s Connect
 
-Let’s talk about AI, security, or building things that actually matter:  
-👉 [LinkedIn](https://www.linkedin.com/in/julien-sacko/)
-
-### 🤝 Let’s Connect
-
 Feel free to connect with me on [**LinkedIn**](https://www.linkedin.com/in/julien-sacko/).
 
 Let’s build something impactful together!

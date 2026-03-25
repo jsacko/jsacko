@@ -1,6 +1,6 @@
 # 👋 Introducing Myself
 
-Hi, I'm Julien Sacko, an **AI Cybersecurity Engineer** focused on LLM-driven systems that automate threat detection, incident response, and security operations at scale. I design and deploy AI-driven solutions that reduce analyst workload and turn noisy security data into actionable insights.
+Hi, I'm Julien Sacko, an **AI Cybersecurity Engineer** focused on LLM-driven systems that automate threat detection, incident response, and security operations at scale. I design and deploy AI solutions that reduce analyst workload and turn noisy security data into actionable insights.
 
 ---
 

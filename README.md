@@ -1,25 +1,31 @@
 # 👋 Introducing Myself
 
-Hi, I'm Julien Sacko, a  Security Machine Learning Engineer with expertise in cybersecurity, passionate about building robust, scalable, and production-ready ML systems for end users. I specialize in Deep Learning, data analysis, and MLOps practices to take projects from raw data to real-world deployment.
+Hi, I'm Julien Sacko, an **AI Cybersecurity Engineer** focused on building intelligent systems that automate threat detection, incident response, and security operations at scale. I design and deploy AI-driven solutions that reduce analyst workload and turn noisy security data into actionable insights.
 
 ---
 
 ### 🚀 What I Do
 
-- ☁️ **Cloud Deployment** using `Azure ML` and `AWS`
-- 💻 **Software Development** in `Python`, `Java`, `TypeScript`, and `React`
-- 📊 **Data Analysis & Feature Engineering** using `Pandas`, `NumPy`, `SQL`, and `Seaborn`
-- 🤖 **Model Training** with `TensorFlow`, `PyTorch`, and `Scikit-learn`
-- ⚙️ **MLOps & Production** with `Apache Airflow`, `Kubernetes`, `Docker`, `MLflow`, `W&B`, `FastAPI`, and `DVC`
-
+- 🛡️ **AI for Security Operations (SOC)** - Automating incident analysis, reducing alert fatigue, and accelerating response time  
+- 🤖 **LLM & AI Systems** - Designing and integrating LLM-based solutions for security workflows and decision support
+- 🔍 **Threat Detection & Investigation** - Conduct in-depth investigations using `SIEM` and `EDR` tools (Splunk, Sekoia, CrowdStrike)
+- ☁️ **Cloud & Infrastructure** - Deploying scalable solutions on `Azure` and `AWS`  
+- ⚙️ **Production Systems** - Building reliable pipelines with `Docker`, `Kubernetes`, `FastAPI`, and MLOps tooling  
+- 💻 **Engineering** - Developing in `Python`, with experience across full-stack technologies when needed  
 
 ---
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/jsacko/portfolio/).
+Welcome to my portfolio, where I showcase my work in **AI, cybersecurity, and automation**:  
+👉 [Projects](https://github.com/jsacko/portfolio/)
 
 ---
+
+### 🤝 Let’s Connect
+
+Let’s talk about AI, security, or building things that actually matter:  
+👉 [LinkedIn](https://www.linkedin.com/in/julien-sacko/)
 
 ### 🤝 Let’s Connect
 

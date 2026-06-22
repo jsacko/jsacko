@@ -8,7 +8,7 @@ Hi, I'm Julien Sacko, an **AI Cybersecurity Engineer** focused on LLM-driven sys
 
 - 🛡️ **AI for Security Operations (SOC)** - Automating incident analysis, reducing alert fatigue, and accelerating response time  
 - 🤖 **LLM & AI Systems** - Designing and integrating LLM-based solutions for security workflows and decision support
-- 🔍 **Threat Detection & Investigation** - Conduct in-depth investigations using `SIEM` and `EDR` tools (Splunk, Sekoia, CrowdStrike)
+- 🔍 **Threat Detection & Investigation** - Conduct in-depth investigations using `SIEM` and `EDR` tools (Splunk, Sekoia, HarfangLab)
 - ☁️ **Cloud & Infrastructure** - Deploying scalable solutions on `Azure` and `AWS`  
 - ⚙️ **Production Systems** - Building reliable pipelines with `Docker`, `Kubernetes`, `FastAPI`, and MLOps tooling  
 - 💻 **Engineering** - Developing in `Python`, with experience across full-stack technologies when needed  

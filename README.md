@@ -20,6 +20,9 @@ Hi, I'm Julien Sacko, an **AI Cybersecurity Engineer** focused on LLM-driven sys
 Welcome to my portfolio, where I showcase my work in **AI, cybersecurity, and automation**:  
 👉 [Projects](https://github.com/jsacko/portfolio/)
 
+My latest open-source project, an AI Incident Response Agent :
+https://github.com/jsacko/OpenDFIR
+
 ---
 
 ### 🤝 Let’s Connect
